@@ -6,11 +6,13 @@
 
 :fire: As a core computer programmer, I have an avid interest in Data Structures, Algorithms, and Optimization.
 
-:computer: I have demonstrated experience in C, C++, Python, Machine Learning, Deep Learning, Computer Vision. 
+:computer: I have a demonstrated experience in C, C++, Python, Machine Learning, Deep Learning, Computer Vision. 
 
 :sparkles: I would be very interested in challenging and enriching opportunities.
 
-:mailbox_with_mail: Reach me at : bhushanhgawde32@gmail.com
+:mailbox_with_mail: Reach me at : bhushangawde32@gmail.com
+
+:computer: [LinkedIn Profile](https://www.linkedin.com/in/bhushangawde1996/)  &nbsp;   [LeetCode Profile](https://leetcode.com/technophile96/)  
 
 :sparkles: I have added some of my projects on GitHub. Check out those below.
 
