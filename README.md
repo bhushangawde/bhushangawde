@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Bhushan!
 
+### A designer, developer and problem solver.
+<br />
 
 :computer: I have previously worked as a **Senior Software Engineer** for **3 years** at **Samsung R&D India, Bangalore.** My work was based on Human Portrait-based algorithm development and commercialization under the AI Computational Imaging team at Samsung R&D.
 
