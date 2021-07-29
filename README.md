@@ -15,7 +15,7 @@
 
 :sparkles: I have added some of my projects on GitHub. Check out those below.
 
-## Connect with me 
+### Connect with me 
 <!--
 :computer: [LinkedIn](https://www.linkedin.com/in/bhushangawde1996/) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/technophile96/)  &nbsp;|&nbsp;  [Twitter](https://twitter.com/bhushangawde32) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/bhushan._.gawde/?hl=en)
 -->
@@ -48,6 +48,12 @@
 [<img align="left" alt="Eclipse" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png" />][github]
 
 [github]: https://github.com/bhushangawde
+
+<br />
+<br />
+<br />
+
+[![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushangawde&theme=dark&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bhushangawde/bhushangawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
