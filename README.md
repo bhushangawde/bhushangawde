@@ -16,6 +16,8 @@
 :computer: [LinkedIn](https://www.linkedin.com/in/bhushangawde1996/) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/technophile96/)
 
 :sparkles: I have added some of my projects on GitHub. Check out those below.
+<br />
+<br />
 
 ### Connect with me 
 <!--
@@ -30,6 +32,7 @@
 [instagram]: https://www.instagram.com/bhushan._.gawde/?hl=en
 [linkedin]: https://www.linkedin.com/in/bhushangawde1996/
 [github]: https://github.com/bhushangawde
+<br />
 <br />
 
 ### Languages and Tools:
