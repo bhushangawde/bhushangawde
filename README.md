@@ -12,7 +12,7 @@
 
 :mailbox_with_mail: Reach me at : bhushangawde32@gmail.com
 
-:computer: [LinkedIn Profile](https://www.linkedin.com/in/bhushangawde1996/)  &nbsp;   [LeetCode Profile](https://leetcode.com/technophile96/)  
+:computer: [LinkedIn Profile](https://www.linkedin.com/in/bhushangawde1996/) &nbsp; [LeetCode Profile](https://leetcode.com/technophile96/)  
 
 :sparkles: I have added some of my projects on GitHub. Check out those below.
 
