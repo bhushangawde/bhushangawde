@@ -59,6 +59,9 @@
 <br />
 
 [![Bhushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushangawde&theme=dark&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushangawde&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--
 **bhushangawde/bhushangawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
