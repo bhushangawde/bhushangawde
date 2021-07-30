@@ -15,7 +15,7 @@
 
 :computer: [LinkedIn](https://www.linkedin.com/in/bhushangawde1996/) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/technophile96/)
 
-:sparkles: I have added some of my projects on GitHub. Check out those below.
+:sparkles: I have added some of my own projects on GitHub. Check out those below.
 <br />
 <br />
 
