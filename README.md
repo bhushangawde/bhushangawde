@@ -3,7 +3,7 @@
 ### A designer, developer and problem solver.
 <br />
 
-:computer: I have previously worked as a **Senior Software Engineer** for **3 years** at **Samsung R&D India, Bangalore.** My work was based on Human Portrait-based algorithm development and commercialization under the AI Computational Imaging team at Samsung R&D.
+:computer: I have previously worked as a **Software Engineer** for **3 years** at **Samsung R&D India, Bangalore.** My work was based on Human Portrait-based algorithm development and commercialization under the AI Computational Imaging team at Samsung R&D.
 
 :fire: As a core computer programmer, I have an avid interest in **Data Structures**, **Algorithms**, and **Optimization**.
 
