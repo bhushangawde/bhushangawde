@@ -7,9 +7,7 @@
 
 :fire: As a core computer programmer, I have an avid interest in **Data Structures**, **Algorithms**, and **Optimization**.
 
-:computer: I have a demonstrated experience in **C**, **C++**, **Python**, **Machine Learning**, **Deep Learning**, and **Computer Vision**. 
-
-:sparkles: I would be very interested in challenging and enriching opportunities.
+:computer: I have a demonstrated experience in **C**, **C++**, **Python**, **Machine Learning**, **Deep Learning**, and **Computer Vision** and would be very interested in challenging and enriching opportunities. 
 
 :mailbox_with_mail: Reach me at : bhushangawde32@gmail.com
 
