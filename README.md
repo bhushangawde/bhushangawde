@@ -3,11 +3,13 @@
 ### A designer, developer and problem solver.
 <br />
 
-:computer: I have previously worked as a **Software Engineer** for **3 years** at **Samsung R&D India, Bangalore.** My work was based on Human Portrait-based algorithm development and commercialization under the AI Computational Imaging team at Samsung R&D.
+:man_student: I am currently pursuing MS in CS at **TU Munich**, Germany with a major in **Machine Learning and Analytics**. 
 
-:fire: As a core computer programmer, I have an avid interest in **Data Structures**, **Algorithms**, and **Optimization**.
+:computer: Prior to my Masters, I was working as a **Software Engineer** at **Samsung R&D India, Bangalore**. During my **three** years of experience at Samsung, I worked on multiple features/projects which have been integrated into the front camera Portrait Mode of Samsung's flagship smartphones and are being used every day by millions of users worldwide. :)
 
-:computer: I have a demonstrated experience in **C**, **C++**, **Python**, **Image processing**, and **Deep Learning** and would be very interested in challenging and enriching opportunities. 
+:fire: As a core computer programmer, I have an avid interest in **Data Structures**, **Algorithms**, **Optimization**, and **System Design**.
+
+<!-- :computer: I have a demonstrated experience in **C**, **C++**, **Python**, **Image processing**, and **Deep Learning**  -->
 
 :mailbox_with_mail: Reach me at : bhushangawde32@gmail.com
 
@@ -30,7 +32,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+### Tools and Technologies
 
 [<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][github]
 [<img align="left" alt="Cpp" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />][github]
