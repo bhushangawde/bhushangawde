@@ -30,8 +30,7 @@
 [linkedin]: https://www.linkedin.com/in/bhushangawde1996/
 [github]: https://github.com/bhushangawde
 <br />
-<br />
-
+***
 ### Tools and Technologies
 
 [<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />][github]
