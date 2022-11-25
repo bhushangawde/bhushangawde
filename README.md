@@ -3,7 +3,7 @@
 ### A designer, developer and problem solver.
 <br />
 
-:man_student: I am currently pursuing MS in CS at **TU Munich**, Germany with a major in **Machine Learning and Analytics**. 
+:man_student: I am currently pursuing MS in CS at **TU Munich** with a major in **Machine Learning and Analytics**. 
 
 :computer: Prior to my Masters, I was working as a **Software Engineer** at **Samsung R&D India, Bangalore**. During my **three** years of experience at Samsung, I worked on multiple features/projects which have been integrated into the front camera Portrait Mode of Samsung's flagship smartphones and are being used every day by millions of users worldwide. :)
 
