@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bhushan!
 
-### A designer, developer and problem solver.
+### I am a Software Developer
 <br />
 
 :man_student: I am currently pursuing MS in CS at **TU Munich** with a major in **Machine Learning and Analytics**. 
