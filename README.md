@@ -53,8 +53,8 @@
 <br />
 <br />
 <br />
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushangawde&count_private=true&theme=dark&hide=prs,issues,contribs)](https://github.com/bhushangawde)
+<!-- 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhushangawde&count_private=true&theme=dark&hide=prs,issues,contribs)](https://github.com/bhushangawde) -->
 <!--
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhushangawde&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
