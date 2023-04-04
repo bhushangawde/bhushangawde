@@ -7,7 +7,7 @@
 
 :computer: Prior to my Masters, I was working as a **Software Engineer** at **Samsung R&D India, Bangalore**. During my **three** years of experience at Samsung, I worked on multiple features/projects which have been integrated into the front camera Portrait Mode of Samsung's flagship smartphones and are being used every day by millions of users worldwide. :)
 
-:fire: As a core computer programmer, I have an avid interest in **Data Structures**, **Algorithms**, **Optimization**, and **System Design**.
+:fire: I have an avid interest in **Machine Learning**, **Deep Learning**, and **Computer Vision**.
 
 <!-- :computer: I have a demonstrated experience in **C**, **C++**, **Python**, **Image processing**, and **Deep Learning**  -->
 
