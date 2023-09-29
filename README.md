@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Bhushan!
 
-### I am a Software Developer
+### I am a Machine Learning Engineer
 <br />
 
 :man_student: I am currently pursuing MS in CS at **TU Munich** with a major in **Machine Learning and Analytics**. 
