@@ -3,7 +3,9 @@
 ### I am a Machine Learning Engineer
 <br />
 
-:man_student: I am currently pursuing MS in CS at **TU Munich** with a major in **Machine Learning and Analytics**. 
+:computer: I am currently working as an Artificial Intelligence Developer / Expert at SAP, Berlin.
+
+:man_student: I have pursued my Masters in CS at **TU Munich** with a major in **Machine Learning and Analytics** and a minor in **Computer Vision** and **Distributed Systems**. 
 
 :computer: Prior to my Masters, I was working as a **Software Engineer** at **Samsung R&D India, Bangalore**. During my **three** years of experience at Samsung, I worked on multiple features/projects which have been integrated into the front camera Portrait Mode of Samsung's flagship smartphones and are being used every day by millions of users worldwide. :)
 
